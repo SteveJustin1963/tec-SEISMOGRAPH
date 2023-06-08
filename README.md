@@ -4,3 +4,7 @@ Melbourne experienced its strongest earthquake in 120 years, with a magnitude of
 
 get the tec1 to monitor seismo
 
+
+## Ref
+- https://www.instructables.com/Seismometer/
+- 

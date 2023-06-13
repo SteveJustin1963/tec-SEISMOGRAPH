@@ -7,4 +7,8 @@ get the tec1 to monitor seismo
 
 ## Ref
 - https://www.instructables.com/Seismometer/
+- https://www.dgbes.com/software/free
+- https://blog.adafruit.com/2022/07/22/make-seisberry-an-open-source-seismograph-piday-raspberrypi-raspberry_pi/
+- https://pyrocko.org/
+- https://opensha.org/
 - 
